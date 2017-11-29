@@ -1,0 +1,16 @@
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\bin\x86\Debug\Content\cat.xnb
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\bin\x86\Debug\Content\mouse.xnb
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\bin\x86\Debug\CatAndMouse.exe
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\bin\x86\Debug\CatAndMouse.pdb
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\obj\x86\Debug\CatAndMouse.csprojResolveAssemblyReference.cache
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\obj\x86\Debug\CatAndMouse.exe
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\obj\x86\Debug\CatAndMouse.pdb
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\bin\x86\Debug\Content\cat.xnb
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\bin\x86\Debug\Content\mouse.xnb
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\bin\x86\Debug\CatAndMouse.exe
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\bin\x86\Debug\CatAndMouse.pdb
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\obj\x86\Debug\CatAndMouse.csprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\obj\x86\Debug\CatAndMouse.exe
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\obj\x86\Debug\CatAndMouse.pdb

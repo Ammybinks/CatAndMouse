@@ -1,0 +1,2 @@
+C:\TeenCoder\Game Programming\Activity Starters\CatAndMouse\CatAndMouse\Content\obj\x86\Debug\CatAndMouseContent.contentprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\To Add\CatAndMouse\CatAndMouse\Content\obj\x86\Debug\CatAndMouseContent.contentprojResolveAssemblyReference.cache
